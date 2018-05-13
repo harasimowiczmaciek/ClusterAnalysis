@@ -1,0 +1,12 @@
+name: ClusterAnalysis
+title: ClusterAnalysis
+username:
+account: harasimowicz
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 341918
+bundleId: 1370463
+url: https://harasimowicz.shinyapps.io/ClusterAnalysis/
+when: 1526144462.89275
+asMultiple: FALSE
+asStatic: FALSE

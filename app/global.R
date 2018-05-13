@@ -1,0 +1,11 @@
+library(shiny)
+library(shinydashboard)
+library(dplyr)
+library(plotly)
+library(data.table)
+library(vegan)
+library(stats)
+library(cluster)
+library(shinythemes)
+library(readr)
+
